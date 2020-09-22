@@ -1,2 +1,1 @@
-# storage
-저장소
+# storage 뱌
