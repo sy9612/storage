@@ -4,8 +4,7 @@
 
 mysql 8.0.23
 
-참고: https://abc1211.tistory.com/287
-
+[참고: https://abc1211.tistory.com/287]
 
 
 sudo apt-get install mysql-server
