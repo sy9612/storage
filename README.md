@@ -1,2 +1,2 @@
 # storage 
-d
+r 공부중
